@@ -28,13 +28,20 @@ We will be judging you on a number of criteria, very similar to how we define ou
 
 (1) Reading comprehension and communication skills. Can you read a ticket with perhaps ambiguous requirements and clarify what the problem is? Can you have an articulate technical conversation with other engineers? You shouldn't flail around and speak in ambiguities (like, "*the thing does some weird stuff*") when asked to describe the core technical cause of a bug/problem. Clear communication is absolutely necessary.
 
-(2) Programming fundamentals. I'm not concerned if you don't have the React fiber algorithm memorized, you can learn that if you want. But you should have your js fundamentals mastered. What exactly counts as "fundamentals" is not within the scope of this interview either. As an engineer, you are largely responsible for taking the initiative to learn. Your manager is only there to give you the tools/resources to do so, hold you accountable for learning, and nudging you towards the path that will guide you towards a fruitful career.
+(2) Programming/engineering fundamentals. I'm not concerned if you don't have the React fiber algorithm memorized, you can learn that if you want. But you should have your js fundamentals mastered. What exactly counts as "fundamentals" is not within the scope of this interview either. As an engineer, you are largely responsible for taking the initiative to learn. Your manager is only there to give you the tools/resources to do so, hold you accountable for learning, and nudging you towards the path that will guide you towards a fruitful career.
 
 (3) Problem solving/engineering skills and attention to detail. Can you think like an engineer? Can you take a big problem and break it down into smaller problems? Is your thought process rational and methodical, or do you flail around randomly smashing your keyboard and adding random console logs in hopes that something will work?
 
 (4) Debugging, attention to detail, perseverance. When bugs arise, the best engineers read *the entire error message* without hestitation and are not afraid of digging into things they do not know. You shouldn't freeze and lay down to die if you see an error you do not understand. As Kirk Lazarus once said, "*survive*". It is not your coworkers responsibility to read an error message for you, that is up to your attention to detail. But your coworkers can help point in the right direction or prevent you from wasting hours going down the wrong debug path.
 
+(5) Delivery, quality. Can you actually finish the problems in the alloted time? Did you waste too much time refactoring or on premature optimization instead of just trying to get the thing working? Conversely, how clean is your code? 
 
-### Takehome
+### Some overall tips
+
+- Stay calm. If your inabiltiy to stay calm affects your focus, things won't go well. Interviewing is ultimately a numbers. I have failed many interviews in the past, and I'm still alive. Just relax, it will be ok. This online coding interview is not meant to bully you or make you feel stupid. It's just an attempt to assess how you'd perform on the day to day job. 
+- Focus on quality over speed. Again, relax. If you try to rush through the implementation without understanding the problem, there's a good chance you'll misread the ticket and end up implementing the wrong thing. In real life this is bad because if you are not skeptical of your own cognitive blind spots you'll end up wasting hours or days on some problem that could have been avoided if you just re-read the ticket again, or asked for clarification. **Slow down, but don't stop**.
+- Don't give up. "I don't know" isn't an option. Understand the problem, break it down into smaller problems, and figure out a solution.
+
+## Takehome
 
 [todo]
