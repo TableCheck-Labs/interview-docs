@@ -16,7 +16,7 @@ THIS IS NOT A LEETCODE TEST. We will **not** ask you to do dumb stuff like inver
 
 This is not a dumb brainteaser test. We won't ask questions like "if you made a stack of tacos that reached the moon how much would the combined amount of lettuce in all the tacos weigh?" You're interviewing for a software engineering position not a biz analyst, PM, consultant, CEO, televangelist, neo-pagan divination prophet, or data scientist role.
 
-This is not a rote memorization/trivia test. We will not ask you questions that can answered with a simple search. Do not waste time preparing by memorizing a billion libraries, as you can research docs during the test.
+This is not a rote memorization/trivia test. We will not ask you questions that can answered with a simple search. This isn't jeopardy.
 
 ### What this test WILL include
 
