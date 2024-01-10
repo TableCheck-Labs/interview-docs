@@ -12,7 +12,7 @@ Using LLMs is not allowed.
 
 ### What this test is NOT about
 
-THIS IS NOT A LEETCODE TEST. We will **not** ask you to do dumb stuff like invert a binary tree.
+THIS IS NOT A LEETCODE TEST. We will **not** ask you to do dumb stuff like invert a binary tree or make you figure out the time complexity of some random algorithm.
 
 This is not a dumb brainteaser test. We won't ask questions like "if you made a stack of tacos that reached the moon how much would the combined amount of lettuce in all the tacos weigh?" You're interviewing for a software engineering position not a biz analyst, PM, consultant, CEO, televangelist, neo-pagan divination prophet, or data scientist role.
 
