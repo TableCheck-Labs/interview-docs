@@ -44,4 +44,13 @@ We will be judging you on a number of criteria, very similar to how we define ou
 
 ## Takehome
 
-[todo]
+### Basics
+
+
+
+### What this test is NOT about
+
+### What this test WILL include
+
+
+### How your performance will be judged
