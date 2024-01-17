@@ -4,7 +4,7 @@
 
 ### Basics
 
-This test should take roughly 60 minutes. Sometimes it goes over to discuss feedback. It will be conducted on stackblitz.com via google meets. You should familiarize yourself with stackblitz and enable your screenshare permissions in your preferred browser. The last thing you want is to be caught off guard, lose time, become flustered and lose your concentration with this sort of basic preparation.
+This test should take roughly 60 minutes. Sometimes it goes over to discuss feedback. It will be conducted on stackblitz.com via google meets. You should familiarize yourself with stackblitz (specifically the vite/react/typescript boilerplate, how to use it, how to check the console and terminal, basically learn how to use it as an IDE) and enable your screenshare permissions in your preferred browser. The last thing you want is to be caught off guard, lose time, become flustered and lose your concentration with this sort of basic preparation.
 
 You will be allowed to use any documentation you want.
 
