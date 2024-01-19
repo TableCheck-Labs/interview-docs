@@ -18,6 +18,8 @@ This is not a dumb brainteaser test. We won't ask questions like "if you made a 
 
 This is not a rote memorization/trivia test. We will not ask you questions that can answered with a simple search. This isn't jeopardy.
 
+This is not a typescript test, though the test makes use of typescript files, so don't worry about typescript errors.
+
 ### What this test WILL include
 
 Overall this test is meant to highly mimic the type of work you will be doing day to day at TableCheck. The test includes a number of modified problems of actual bugs/features we have had to solve and implement here. Therefore, this test attempts to serve as an indicator of your liklihood of success here. 
